@@ -1,7 +1,10 @@
 .box {
   height: 100vh;
   background-color: darkblue;
+  color: yellow;
+  padding: 20px;
 }
 .dayLight {
   background-color: yellow;
+  color: darkblue;
 }
